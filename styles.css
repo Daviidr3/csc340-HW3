@@ -1,0 +1,103 @@
+h2.top-name{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+img.banner{
+    display: grid;
+    max-width: 10%;
+    max-height: 10%;
+    place-items: center;
+}
+ul.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(97, 175, 224);
+  overflow: hidden;
+}
+
+li.nav-item {
+  float: left;
+}
+
+li.nav-item a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li.nav-item a:hover {
+  background-color: rgb(91, 148, 184);
+}
+h1.company-name {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+div.front-image{
+    display:grid;
+    place-items: center;
+}
+div.services{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.invst {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left; 
+    margin: 0 auto; 
+    width: 70%;
+    padding: 40px; 
+}
+.inv-desc{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left; 
+    margin: 0 auto; 
+    width: 70%;
+    padding: 40px;
+    margin-top: -50px;
+    font-weight: lighter;
+}
+.adv {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left; 
+    margin: 0 auto; 
+    width: 70%;
+    padding: 40px;
+}
+.adv-desc { 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left; 
+    margin: 0 auto; 
+    width: 70%;
+    padding: 40px;
+    margin-top: -50px;
+    font-weight: lighter;
+}
+.about{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.mission-desc{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.meeting{
+    display: grid;
+    place-items: center;
+}
+.contact{
+    font-family:'Times New Roman', Times, serif ;
+    text-align: center;
+}
+.information{
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align: center;
+}
+.contact-pic{
+    display: grid;
+    place-items: center;   
+}
