@@ -77,6 +77,21 @@ text-align: center;
     margin-top: -50px;
     font-weight: lighter;
 }
+.risk {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left; 
+    margin: 0 auto; 
+    width: 70%;
+    padding: 40px;
+}
+.risk-desc { 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left; 
+    margin: 0 auto; 
+    width: 70%;
+    padding: 40px;
+    margin-top: -50px;
+    font-weight: lighter;
 .about{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
